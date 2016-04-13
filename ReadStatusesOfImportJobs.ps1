@@ -13,7 +13,7 @@
 # User profile bulk API - Read all import jobs from the tenant # 
 # 13th of Apr, 2016 - Release v1.0
 # Author(s)
-Vesa Juvonen (Microsoft)
+Nano Nano
 # Notes
 Support for this script requires that you have installed update SharePoint Online SDK/CSOM redistributable
 with minimum version of 4622.1208 to the computer where the script is executed. 
